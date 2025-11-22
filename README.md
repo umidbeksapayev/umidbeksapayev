@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on  Web development Projects 
 - 🤔 I’m looking for help with  Web development 
 - 💬 Ask me about Web development  
-- 😄 Pronouns: he/him
 ⚡ **Fun fact:** I love building creative and responsive web apps!  
 💻 **About Me:** Hi, I'm **Sapayev Umidbek**, a passionate **Web Developer** with over **1 year of hands-on experience** in modern front-end technologies, especially **React.js**.  
 
